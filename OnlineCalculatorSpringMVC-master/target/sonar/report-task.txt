@@ -1,5 +1,5 @@
 projectKey=ua.yermolenko.springmodule2:springmodule2
 serverUrl=http://localhost:9000
 dashboardUrl=http://localhost:9000/dashboard/index/ua.yermolenko.springmodule2:springmodule2
-ceTaskId=AW8pSJZmjqQMWzdj4z_N
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AW8pSJZmjqQMWzdj4z_N
+ceTaskId=AW8ptJ2kjqQMWzdj4z_e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW8ptJ2kjqQMWzdj4z_e
